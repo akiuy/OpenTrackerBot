@@ -1,0 +1,138 @@
+{
+    "tournaments": [
+        {
+            "tournament_name": "Shanghai Major 2024",
+            "matches": [
+                {
+                    "team_a": "Furia",
+                    "team_b": "Gamer Legion",
+                    "stage": "Opening Stage",
+                    "time": "6:00 (MSK)",
+                    "type": "BO1",
+                    "match_id": 1,
+                    "status" : "Upcoming",
+                    "win": "None",
+                    "team_a_score": 0,
+                    "team_b_score": 0,
+                    "team_a_predictors": [],
+                    "team_b_predictors": [],
+                    "tracker_points": 100
+                },
+
+                {
+                    "team_a": "Virtus.pro",
+                    "team_b": "MIBR",
+                    "stage": "Opening Stage",
+                    "time": "6:00 (MSK)",
+                    "type": "BO1",
+                    "match_id": 2,
+                    "status": "Upcoming",
+                    "win": "None",
+                    "team_a_score": 0,
+                    "team_b_score": 0,
+                    "team_a_predictors": [],
+                    "team_b_predictors": [],
+                    "tracker_points": 100
+                },
+
+                {
+                    "team_a": "Liquid",
+                    "team_b": "Cloud9",
+                    "stage": "Opening Stage",
+                    "time": "7:00 (MSK)",
+                    "type": "BO1",
+                    "match_id": 3,
+                    "status": "Upcoming",
+                    "win": "None",
+                    "team_a_score": 0,
+                    "team_b_score": 0,
+                    "team_a_predictors": [],
+                    "team_b_predictors": [],
+                    "tracker_points": 100
+                },
+
+                {
+                    "team_a": "Complexity",
+                    "team_b": "FlyQuest",
+                    "stage": "Opening Stage",
+                    "time": "7:00 (MSK)",
+                    "type": "BO1",
+                    "match_id": 4,
+                    "status": "Upcoming",
+                    "win": "None",
+                    "team_a_score": 0,
+                    "team_b_score": 0,
+                    "team_a_predictors": [],
+                    "team_b_predictors": [],
+                    "tracker_points": 100
+                },
+
+                {
+                    "team_a": "BIG",
+                    "team_b": "Passion UA",
+                    "stage": "Opening Stage",
+                    "time": "8:00 (MSK)",
+                    "type": "BO1",
+                    "match_id": 5,
+                    "status": "Upcoming",
+                    "win": "None",
+                    "team_a_score": 0,
+                    "team_b_score": 0,
+                    "team_a_predictors": [],
+                    "team_b_predictors": [],
+                    "tracker_points": 100
+                },
+
+                {
+                    "team_a": "fnatic",
+                    "team_b": "Wildcard",
+                    "stage": "Opening Stage",
+                    "time": "8:00 (MSK)",
+                    "type": "BO1",
+                    "match_id": 6,
+                    "status": "Upcoming",
+                    "win": "None",
+                    "team_a_score": 0,
+                    "team_b_score": 0,
+                    "team_a_predictors": [],
+                    "team_b_predictors": [],
+                    "tracker_points": 100
+                },
+
+                {
+                    "team_a": "The MongolZ",
+                    "team_b": "Rare Atom",
+                    "stage": "Opening Stage",
+                    "time": "9:00 (MSK)",
+                    "type": "BO1",
+                    "match_id": 7,
+                    "status": "Upcoming",
+                    "win": "None",
+                    "team_a_score": 0,
+                    "team_b_score": 0,
+                    "team_a_predictors": [],
+                    "team_b_predictors": [],
+                    "tracker_points": 100
+                },
+
+                {
+                    "team_a": "paiN",
+                    "team_b": "Imperial",
+                    "stage": "Opening Stage",
+                    "time": "9:00 (MSK)",
+                    "type": "BO1",
+                    "match_id": 8,
+                    "status": "Upcoming",
+                    "win": "None",
+                    "team_a_score": 0,
+                    "team_b_score": 0,
+                    "team_a_predictors": [],
+                    "team_b_predictors": [],
+                    "tracker_points": 100
+                }
+            ],
+            "status": "Upcoming"
+        }
+    ]
+    
+}

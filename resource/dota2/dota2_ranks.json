@@ -1,0 +1,189 @@
+{
+    "ranks" : [
+        {
+            "rank_id" : "11",
+            "rank_name" : "Herald I"
+        },
+
+        {
+            "rank_id" : "12",
+            "rank_name" : "Herald II"
+        },
+
+        {
+            "rank_id" : "13",
+            "rank_name" : "Herald III"
+        },
+
+        {
+            "rank_id" : "14",
+            "rank_name" : "Herald IV"
+        },
+
+        {
+            "rank_id" : "15",
+            "rank_name" : "Herald V"
+        },
+
+        {
+            "rank_id" : "21",
+            "rank_name" : "Guardian I"
+        },
+
+        {
+            "rank_id" : "22",
+            "rank_name" : "Guardian II"
+        },
+
+        {
+            "rank_id" : "23",
+            "rank_name" : "Guardian III"
+        },
+
+        {
+            "rank_id" : "24",
+            "rank_name" : "Guardian IV"
+        },
+
+        {
+            "rank_id" : "25",
+            "rank_name" : "Guardian V"
+        },
+
+        {
+            "rank_id" : "31",
+            "rank_name" : "Crusader I"
+        },
+
+        {
+            "rank_id" : "32",
+            "rank_name" : "Crusader II"
+        },
+
+        {
+            "rank_id" : "33",
+            "rank_name" : "Crusader III"
+        },
+
+        {
+            "rank_id" : "34",
+            "rank_name" : "Crusader IV"
+        },
+
+        {
+            "rank_id" : "35",
+            "rank_name" : "Crusader V"
+        },
+
+        {
+            "rank_id" : "41",
+            "rank_name" : "Archon I"
+        },
+
+        {
+            "rank_id" : "42",
+            "rank_name" : "Archon II"
+        },
+
+        {
+            "rank_id" : "43",
+            "rank_name" : "Archon III"
+        },
+
+        {
+            "rank_id" : "44",
+            "rank_name" : "Archon IV"
+        },
+
+        {
+            "rank_id" : "45",
+            "rank_name" : "Archon V"
+        },
+
+        {
+            "rank_id" : "51",
+            "rank_name" : "Legend I"
+        },
+
+        {
+            "rank_id" : "52",
+            "rank_name" : "Legend II"
+        },
+
+        {
+            "rank_id" : "53",
+            "rank_name" : "Legend III"
+        },
+
+        {
+            "rank_id" : "54",
+            "rank_name" : "Legend IV"
+        },
+
+        {
+            "rank_id" : "55",
+            "rank_name" : "Legend V"
+        },
+
+        {
+            "rank_id" : "61",
+            "rank_name" : "Ancient I"
+        },
+
+        {
+            "rank_id" : "62",
+            "rank_name" : "Ancient II"
+        },
+
+        {
+            "rank_id" : "63",
+            "rank_name" : "Ancient III"
+        },
+
+        {
+            "rank_id" : "64",
+            "rank_name" : "Ancient IV"
+        },
+
+        {
+            "rank_id" : "65",
+            "rank_name" : "Ancient V"
+        },
+
+        {
+            "rank_id" : "71",
+            "rank_name" : "Divine I"
+        },
+
+        {
+            "rank_id" : "72",
+            "rank_name" : "Divine II"
+        },
+
+        {
+            "rank_id" : "73",
+            "rank_name" : "Divine III"
+        },
+
+        {
+            "rank_id" : "74",
+            "rank_name" : "Divine IV"
+        },
+
+        {
+            "rank_id" : "75",
+            "rank_name" : "Divine V"
+        },
+
+        {
+            "rank_id" : "0",
+            "rank_name" : "Uncalibrated"
+        },
+
+        {
+            "rank_id" : "80",
+            "rank_name" : "Immortal"
+        }
+
+    ]
+}
